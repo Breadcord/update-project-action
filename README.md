@@ -1,3 +1,7 @@
+| 💾 This repository is based off a clone of [github/update-project-action](https://github.com/github/update-project-action). |
+|-----------------------------------------------------------------------------------------------------------------------------|
+| The original README.md at the time of cloning is provided below.                                                            |
+
 # Update Project Action
 
 A composite GitHub action that updates or gets an item's fields on a GitHub Projects (beta) board based on a workflow dispatch (or other) event's input.
